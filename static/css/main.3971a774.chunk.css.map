@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,mBACE,UAAW,CACX,YACF,CAEA,oCACE,mBACE,UACF,CACF","file":"main.3971a774.chunk.css","sourcesContent":[".leaflet-container {\n  width: 60vw;\n  height:100vh;\n}\n\n@media screen and (max-width: 767px) {\n  .leaflet-container {\n    width: 90vw;\n  }\n}\n"]}
